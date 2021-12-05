@@ -1,0 +1,14 @@
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.exe
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.deps.json
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.runtimeconfig.json
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.runtimeconfig.dev.json
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.dll
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\bin\Debug\netcoreapp3.1\Abstract 1.pdb
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.csproj.AssemblyReference.cache
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.AssemblyInfoInputs.cache
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.AssemblyInfo.cs
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.csproj.CoreCompileInputs.cache
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.dll
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.pdb
+C:\Users\Umid\Desktop\Class- Abstract 1\Abstract 1\Abstract 1\obj\Debug\netcoreapp3.1\Abstract 1.genruntimeconfig.cache
